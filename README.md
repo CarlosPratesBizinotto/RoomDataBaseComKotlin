@@ -1,1 +1,1 @@
-App basico para implementação do Room junto com MVVM.
+App basico com implementação do Room junto e MVVM.
